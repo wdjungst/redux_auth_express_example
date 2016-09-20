@@ -53,9 +53,7 @@
     "serve-favicon": "~2.3.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
-    "webpack-hot-middleware": "^2.12.2"
-  },
-  "devDependencies": {
+    "webpack-hot-middleware": "^2.12.2",
     "webpack-dev-middleware": "^1.5.1"
   }
 }
